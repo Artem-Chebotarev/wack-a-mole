@@ -1,0 +1,11 @@
+.score {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  width: 788px;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
